@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: rgba(36, 2, 65, 0.357);
+    font-family: sans-serif;
+}
+h1{
+    background-color: rgba(36, 2, 65, 0.357);
+}
